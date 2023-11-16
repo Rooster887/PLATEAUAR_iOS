@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.cesium.unity": "file:/Users/rooster/Unity/UnityPackage/com.cesium.unity-1.6.3.tgz",
     "com.synesthesias.plateau-unity-sdk": "file:/Users/rooster/Unity/UnityPackage/PLATEAU-SDK-for-Unity-v2.0.3-alpha.tgz",
     "com.unity.collab-proxy": "2.1.0",
     "com.unity.feature.development": "1.0.1",
