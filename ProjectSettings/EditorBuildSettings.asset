@@ -4,7 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/PLATEAU SDK AR Extensions for Unity/0.1.0/AR Samples/Scenes/Boot.unity
+    guid: 2b36571d74a334e49b2505688a241654
+  - enabled: 1
+    path: Assets/Samples/PLATEAU SDK AR Extensions for Unity/0.1.0/AR Samples/Scenes/Sample01_PlateauSdkAR.unity
+    guid: 1ba10accb4a5f5a4fa1c3db8493c06c6
+  - enabled: 1
+    path: Assets/Samples/PLATEAU SDK AR Extensions for Unity/0.1.0/AR Samples/Scenes/Sample02_PlateauCesiumAR.unity
+    guid: 021472a775a00db4ba923a95477012c7
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4490895dded834fc1ae98a7cb4311fc8, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: b733ef446d17f46c8b019c5e18f0ecac, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6f8b5323940b44f38a0cec89aa5184ee, type: 2}

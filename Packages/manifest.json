@@ -2,6 +2,7 @@
   "dependencies": {
     "com.cesium.unity": "file:/Users/rooster/Unity/UnityPackage/com.cesium.unity-1.6.3.tgz",
     "com.google.ar.core.arfoundation.extensions": "file:/Users/rooster/Unity/UnityPackage/arcore-unity-extensions-1.39.0.tgz",
+    "com.microsoft.mrtk.graphicstools.unity": "https://github.com/microsoft/MixedReality-GraphicsTools-Unity.git?path=/com.microsoft.mrtk.graphicstools.unity#v0.4.0",
     "com.synesthesias.plateau-unity-sdk": "file:/Users/rooster/Unity/UnityPackage/PLATEAU-SDK-for-Unity-v2.0.3-alpha.tgz",
     "com.unity.collab-proxy": "2.1.0",
     "com.unity.feature.development": "1.0.1",
@@ -17,6 +18,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.1",
     "com.unity.xr.arfoundation": "4.2.9",
+    "com.unity.xr.arkit": "4.2.9",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
